@@ -1,0 +1,5 @@
+string="mahak lathi"
+substring="h"
+count=string.count(substring)
+print("count is:",count)
+
